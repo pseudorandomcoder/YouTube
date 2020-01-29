@@ -1,6 +1,8 @@
 .vscode
 Pipfile
 Pipfile.lock
+.ipynp_checkpoints
+*checkpoint.ipynb
 
 # standard gitignore from https://github.com/microsoft/vscode-python/blob/master/.gitignore
 .DS_Store
